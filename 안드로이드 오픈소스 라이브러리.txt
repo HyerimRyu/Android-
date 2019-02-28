@@ -1,0 +1,27 @@
+
+
+1. Android 개발자 포털
+https://android-arsenal.com/?sort=created
+
+안드로이드 라이브러리 오픈소스 무료/유료/데모 버전이 있습니다. 
+오래된 사이트임에도 불구하고 최근까지도 계속 업데이트되고 있는 사이트입니다.
+
+2. 초보 개발자를 위한 안드로이드 오픈소스 라이브러리 Best27
+https://aedi.tistory.com/906
+
+aedi님께서 정리해놓은 오픈소스들인데 굉장히 정리를 깔끔하게 해놓으셔서 들고왔습니다. 
+어플리케이션을 개발하면서 굉장히 유용하게 쓰일만한 기능들이 많이있습니다.
+
+3. 오픈소스 UI
+Android UI OpenSource
+https://kmshack.github.io/AndroidUICollection/
+
+각종 UI들이 있는 깃허브입니다. 움짤형식으로 보기좋게 나열되어있어 자신이 원하는 기능을 쉽게 찾을 수 있게 되어있더라구요. 
+제가 굉장히 선호하는 곳이기도 합니다.
+
+
+4. 깃허브 UI 오픈소스 모음집
+https://github.com/wasabeef/awesome-android-ui
+
+5. 앱프로젝트 오픈소스
+https://blog.aritraroy.in/20-awesome-open-source-android-apps-to-boost-your-development-skills-b62832cf0fa4

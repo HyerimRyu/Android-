@@ -1,0 +1,5 @@
+
+Rest Type API 
+
+1. Tour Api
+http://api.visitkorea.or.kr/openAPI/applicationList.do
